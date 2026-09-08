@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# TODO: substitua pelo domínio definitivo antes de publicar.
+Sitemap: https://seu-dominio.com.br/sitemap.xml

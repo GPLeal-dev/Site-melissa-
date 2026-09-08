@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="MO">
+  <circle cx="32" cy="32" r="30" fill="#fff8f2" stroke="#a9823d" stroke-width="2"/>
+  <path d="M10 24c10-13 30-16 44-4" fill="none" stroke="#d88f7b" stroke-linecap="round" stroke-width="6"/>
+  <text x="32" y="41" fill="#3d2a25" font-family="Georgia,serif" font-size="23" font-weight="700" text-anchor="middle">MO</text>
+</svg>
